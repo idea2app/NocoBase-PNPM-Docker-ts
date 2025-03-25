@@ -33,10 +33,18 @@
   },
   "dependencies": {
     "@nocobase/cli": "1.6.10",
+    "@nocobase/client": "^1.6.10",
+    "@nocobase/preset-nocobase": "^1.6.10",
+    "antd": "5.12.8",
     "pg": "^8.7.3",
-    "pg-hstore": "^2.3.4"
+    "pg-hstore": "^2.3.4",
+    "react-imported-component": "^6.5.4"
   },
   "devDependencies": {
-    "@nocobase/devtools": "1.6.10"
+    "@nocobase/devtools": "1.6.10",
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.13",
+    "tsx": "^4.19.3",
+    "umi": "^4.4.6"
   }
 }

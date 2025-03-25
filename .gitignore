@@ -16,7 +16,8 @@ coverage
 /uploads
 .env.test
 docs-dist/
-.npmrc
 dist/
 /docker/**/storage
 /storage/.app-dev
+/storage/apps/*/aes_key.dat
+/storage/logs/
