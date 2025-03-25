@@ -1,5 +1,5 @@
 {
-  "name": "Space-Booking-server",
+  "name": "@mowa-1024/space-booking-server",
   "private": true,
   "workspaces": [
     "packages/*/*",

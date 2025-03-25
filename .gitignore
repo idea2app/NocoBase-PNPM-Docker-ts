@@ -20,3 +20,6 @@ docs-dist/
 dist/
 /docker/**/storage
 /storage/.app-dev
+storage/logs/
+storage/apps/*/aes_key.dat
+storage/*.watch.ts
